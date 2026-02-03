@@ -12,7 +12,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 # ==========================================
 # ⚙️ Configuration
 # ==========================================
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDHXNcgIMXaOGVA8vqbrj2zolQtLCt2EPE" 
+os.environ["GOOGLE_API_KEY"] = "Api key................" 
 
 # ==========================================
 # 1. RAG Backend Logic
